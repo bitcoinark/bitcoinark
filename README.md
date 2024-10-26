@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bitcoinark
-- 👀 I’m interested in bitcoin and everything related to bitcoin adoption
-- 🌱 I’m currently learning nodejs
+- 👀 I’m interested in bitcoin, NOSTR and everything related to bitcoin adoption
+- 🌱 I’m currently learning nodejs, NOSTR
 - 💞️ I’m looking to collaborate on anything that furthers bitcoin adoption
 - 📫 How to reach me chris@bitcoinark.org
 - ⚡ Fun fact: inflation is theft
